@@ -7,5 +7,3 @@ for i in range(n):
 #hi
 
 print("1ya")
-
-print("t")
